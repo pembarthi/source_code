@@ -1,0 +1,21 @@
+{
+    "customer": {
+        "id": 12345,
+        "name": "Mahender Pembarthi",
+        "age": 40,
+        "Address": {
+            "fullAddress": 5,
+            "zipcode": 10
+        },
+        "accounts": [{
+            "acctNumber": 123456,
+            "balance": 34.54
+        }, {
+            "acctNumber": 3344,
+            "balance": 34.54
+        }, {
+            "acctNumber": 7575,
+            "balance": 34.54
+        }]
+    }
+}
